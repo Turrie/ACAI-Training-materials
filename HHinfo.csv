@@ -1,0 +1,16 @@
+lookUpKey,enuID,barcodeScan,nameRespondent,sex,age,maritaStatus,occupation,edu,hhNumber
+Matamwa_1,1,OCP-T2-08238,Watson,1,46,2,2,4,5
+Matamwa_2,2,OCP-T2-08238,Peter,1,46,2,2,4,3
+Dwasi_5,5,6.16111E+12,Abel,1,38,2,4,2,5
+Dwasi_6,6,6.16111E+12,Hellena,2,56,3,2,3,2
+Emmanuel Mrema _8219,8219,4.00782E+12,Abby,2,56,1,2,2,2
+Joseph_2,2,6.16141E+12,mbogo,1,25,1,4,2,1
+Azeez S. O_1,1,46240736,Dr.Azeez,1,16,2,2,4,4
+Oba_121,121,SGHHNG000000,Oluu,1,12,1,2,3,8
+Ola_122,122,SGEANG000000,Ope,1,25,1,2,1,2
+Olawale_1254,1254,SGENNG000000,Olaege,1,21,2,3,3,2
+Atewa_128,128,SGPSNG000000,Tinu,2,31,3,3,4,2
+Sam _1,1,https://dis.ecitizen.go.ke/api/outputs/4178644/verify,Sam,1,35,2,4,4,1
+Okezie _88,88,This is a QR Code by TEC-IT,Okezie ,1,36,1,3,2,0
+Chukwuemeka _853,853,This is a QR Code by TEC-IT for mobile applications,Chukwuemeka ,1,34,1,2,3,1
+Dwasi_7,7,6.16111E+12,John,2,35,1,3,4,2
